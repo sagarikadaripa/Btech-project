@@ -1,0 +1,6 @@
+Department       | Standard Bag | Deluxe Bag
+--------------------------------------
+Cutting & Dying  | 7/10         | 1
+Sewing           | 1/2          | 5/6
+Finishing        | 1            | 2/3
+Inspection& pack | 1/10         | 1/4
