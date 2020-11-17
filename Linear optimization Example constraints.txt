@@ -1,0 +1,6 @@
+Department      | Number of Hours
+--------------------------------
+Cutting & dying | 630
+Sewing          | 600
+Finishing       | 708
+Inspection& Pack| 135
