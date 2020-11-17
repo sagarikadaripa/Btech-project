@@ -1,0 +1,10 @@
+Constraint 1: Hours for cutting & dying
+ 	7/10S + 1D ≤630
+Constraint 2: Hours for sewing
+	1/2 𝑆+5/6  D ≤600
+Constraint 3: Hours for Finishing
+	1S + 1/4 𝐷 ≤708
+Constraint 4: Hours for inspection & Packing
+	1/10S + 1/4D ≤135
+The number of bags cannot be negative so
+	S≥0 𝑎𝑛𝑑 𝐷≥0
