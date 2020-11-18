@@ -1,6 +1,6 @@
-Department      | Number of Hours
+Department       | Maximum Cost
 --------------------------------
-Cutting & dying | 630
-Sewing          | 600
-Finishing       | 708
-Inspection& Pack| 135
+Cutting & dying  | 630
+Sewing           | 600
+Finishing        | 708
+Inspection& Pack | 135
